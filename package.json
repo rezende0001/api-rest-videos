@@ -1,0 +1,20 @@
+{
+  "name": "api-rest-videos",
+  "version": "1.0.0",
+  "description": "API REST para consultar videos salvo no banco de dados.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alura",
+    "apirest",
+    "api"
+  ],
+  "author": "Hype",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.4"
+  }
+}
